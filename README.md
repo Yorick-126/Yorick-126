@@ -21,5 +21,5 @@ I am a PhD student at Leiden University, doing a combination of wetlab and bioin
 - ⚡ fun fact, never studied anything coding related, so learning on the job!
 
 - 🌱 I’m currently learning
--   Python
--   Biochemical Wet Lab
+    - Python
+    -   Biochemical Wet Lab
